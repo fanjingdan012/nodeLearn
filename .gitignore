@@ -1,0 +1,13 @@
+**/.classpath
+**/.project
+**/.settings/**
+**/**/**/target
+**/target
+**/**/target
+**/javaw_*.log
+**/.svn/**
+**/*.iml
+**/.idea/**
+**/.m2/**
+**/node_modules/**
+**/lib/**
